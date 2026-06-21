@@ -21,6 +21,7 @@ We've taught Python to 70+ students so far, with a goal of reaching 5,000 studen
 ## Get Involved
 
 We're always looking for educators, volunteers, and contributors. Reach out at [contact@bytesizedpython.org](mailto:contact@bytesizedpython.org).
+
 ---
 
 <div align="center">
