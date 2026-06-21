@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Banner image goes here -->
-<img src="https://github.com/byte-sized-python/.github/blob/main/profile/banner.png" alt="Byte-Sized Python" width="100%">
+<img src="https://raw.githubusercontent.com/byte-sized-python/.github/main/profile/banner.png" alt="Byte-Sized Python" width="100%">
 
 # Byte-Sized Python
 
