@@ -16,7 +16,7 @@
 
 Byte-Sized Python is a free curriculum that teaches core Python concepts through age-appropriate, themed projects. Every grade level works through the same foundational concepts, but the projects and themes are tailored so the material actually clicks for that age group.
 
-We've taught Python to 70+ students so far, with a goal of reaching 5,000 students across 10 countries.
+We've taught Python to 100+ students so far, with a goal of reaching 5,000 students across 10 countries.
 
 ## Get Involved
 
